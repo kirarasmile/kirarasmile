@@ -7,5 +7,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirarasmile&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="kirarasmile" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirarasmile&show_icons=true&theme=cobalt&bg_color=ad7afa&locale=en" alt="kirarasmile" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirarasmile&show_icons=true&theme=cobalt&locale=en" alt="kirarasmile" /></p>
 
